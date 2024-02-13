@@ -21,36 +21,6 @@ body {
   color: var(--timberwolf);
 }
 
-.content {
-  margin-left: 16px;
-  margin-right: 16px;
-}
-
-.bigimage {
-  border-radius: 8px;
-  width: 100%;
-}
-
-.subtitle {
-  text-align: left;
-  font-size: 18px;
-  margin: auto;
-  max-width: 540px;
-}
-
-.recipedescription {
-  margin: auto;
-  margin-bottom: 16px;
-  max-width: 540px;
-}
-
-.citation {
-  margin: auto;
-  margin-bottom: 16px;
-  max-width: 540px;
-  font-size: small;
-}
-
 li {
   margin-top: 8px;
   margin-left: 16px;
@@ -85,5 +55,35 @@ a:hover {
 }
 
 aside {
+  font-size: small;
+}
+
+.content {
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.bigimage {
+  border-radius: 8px;
+  width: 100%;
+}
+
+.subtitle {
+  text-align: left;
+  font-size: 18px;
+  margin: auto;
+  max-width: 540px;
+}
+
+.recipedescription {
+  margin: auto;
+  margin-bottom: 16px;
+  max-width: 540px;
+}
+
+.citation {
+  margin: auto;
+  margin-bottom: 16px;
+  max-width: 540px;
   font-size: small;
 }

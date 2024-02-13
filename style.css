@@ -1,8 +1,85 @@
+:root {
+  --cerise: #d84d6eff;
+  --ceriselight: rgb(255, 132, 161);
+  --timberwolf: #cbccc7ff;
+  --eerie-black: #1f2120ff;
+  --slate-gray: #6b849eff;
+}
+
+h1 {
+  text-align: left;
+  color: var(--cerise);
+  max-width: 540px;
+  margin: auto;
+  margin-bottom: 8px;
+}
+
 body {
-    background-color: rgb(40, 40, 50);
-    color:rgb(200, 200, 200)
-  }
-  
-  h1 {
-    color: rgb(211, 211, 211);
-  }
+  background-color: var(--eerie-black);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  color: var(--timberwolf);
+}
+
+.content {
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.bigimage {
+  border-radius: 8px;
+  width: 100%;
+}
+
+.subtitle {
+  text-align: left;
+  font-size: 18px;
+  margin: auto;
+  max-width: 540px;
+}
+
+.recipedescription {
+  margin: auto;
+  margin-bottom: 16px;
+  max-width: 540px;
+}
+
+.citation {
+  margin: auto;
+  margin-bottom: 16px;
+  max-width: 540px;
+  font-size: small;
+}
+
+li {
+  margin-top: 8px;
+  margin-left: 16px;
+}
+
+figure {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 540px;
+}
+
+figcaption {
+  margin-top: 4px;
+  font-size: small;
+  max-width: 540px;
+  display: flex;
+}
+
+a:link {
+  color: var(--cerise);
+}
+
+a:visited {
+  color: var(--slate-gray);
+}
+
+a:hover {
+  color: var(--ceriselight);
+}

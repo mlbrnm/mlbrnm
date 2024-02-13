@@ -83,3 +83,7 @@ a:visited {
 a:hover {
   color: var(--ceriselight);
 }
+
+aside {
+  font-size: small;
+}

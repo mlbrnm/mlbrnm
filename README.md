@@ -11,6 +11,8 @@ Lifelong technology enthusiast. I love knowing how things work, whether mechanic
 
 Experience as a professional Bubble.io developer, including advanced functionalities such as data migration, API integration and custom JavaScript plugin development, as well as working in the healthcare and film industries.
 
+In my spare time, I enjoy building computers, experimenting with self-hosting, and spending time in the mountains with my wife.
+
 ---
 
 ## Technical Skills

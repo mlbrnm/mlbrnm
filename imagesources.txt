@@ -1,0 +1,6 @@
+Icons:
+https://devicon.dev/
+https://github.com/marwin1991/profile-technology-icons?tab=readme-ov-file
+
+Badges:
+https://shields.io/badges

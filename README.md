@@ -31,18 +31,3 @@ Experience as a professional Bubble.io developer, including advanced functionali
 <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width=50px /> <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" width=50px /> <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width=50px />
 
 ---
-
-## Interests
-
-* Open-source software.
-* Self hosting.
-* 2D/3D graphics.
-* Cybersecurity.
-* Artificial intelligence.
-          
-          
-          
-          
-          
-
-

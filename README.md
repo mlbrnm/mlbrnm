@@ -9,9 +9,9 @@
 ---
 
 ## About Me
-Lifelong technology enthusiast. I love knowing how things work, whether mechanical, biological or digital.
+I'm a lifelong technology enthusiast. I love knowing how things work, whether mechanical, biological or digital.
 
-Experience as a professional Bubble.io developer, including advanced functionalities such as data migration, API integration and custom JavaScript plugin development, as well as working in the healthcare and film industries.
+I have experience as a professional Bubble.io developer, including advanced functionalities such as data migration, API integration and custom JavaScript plugin development, as well as working in the healthcare and film industries.
 
 ---
 

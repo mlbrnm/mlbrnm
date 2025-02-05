@@ -19,6 +19,7 @@ I have experience as a professional Bubble.io developer, including advanced func
 
 ### Languages:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=50px alt="C Sharp" title="C Sharp"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=50px alt="C" title="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50px alt="Python" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50px alt="JavaScript" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width=50px alt="HTML5" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width=50px alt="CSS3" title="CSS3"/>
+
 I mostly use Python and JavaScript, but have some experience with C#, C, and Visual Basic.
 
 ### Frameworks / Libraries:

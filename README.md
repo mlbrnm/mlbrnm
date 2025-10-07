@@ -8,7 +8,7 @@
 ---
 
 ## About Me
-I have experience as a professional Bubble.io developer, including advanced functionality such as data migration, API integration and custom JavaScript plugin development, as well as working in the healthcare and film industries as a software developer (mostly automation/integration stuff) and system administrator / network technician.
+I have experience as a professional Bubble.io developer, including advanced functionality such as data migration, API integration and custom JavaScript plugin development, as well as working in the healthcare and film industries as a software developer and system administrator / network technician.
 
 ---
 

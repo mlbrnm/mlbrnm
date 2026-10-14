@@ -39,7 +39,7 @@
         <img width="791" height="526" alt="Screenshot 2026-10-13 105314" src="https://github.com/user-attachments/assets/0cbaea9b-fabf-49fa-a989-a68a4ec0f2c3" />
       </a>
       <h3>
-        <a href="https://github.com/mlbrnm/DisplayQuickSwitch">DisplayQuickSwitch ↗</a>
+        <a href="https://github.com/mlbrnm/DisplayQuickSwitch">DisplayQuickSwitch (GitHub)</a>
       </h3>
       <p>
         Tray tool for quickly switching display and scaling modes in Windows, including graphics driver specific options.
@@ -51,7 +51,7 @@
         <img width="1587" height="1180" alt="Screenshot 2026-10-13 224033" src="https://github.com/user-attachments/assets/090b30a1-35b6-4022-ba3c-a1f746423161" />
       </a>
       <h3>
-        <a href="https://github.com/mlbrnm/Mirthquake">MirthQuake ↗</a>
+        <a href="https://github.com/mlbrnm/Mirthquake">MirthQuake (GitHub)</a>
       </h3>
       <p>
         A graphical Python utility built to stress test and debug biomedical device integration systems by simulating customizable HL7 messages across varied rates, connections, and formats.

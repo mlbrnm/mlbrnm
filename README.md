@@ -12,18 +12,13 @@
 <hr />
 
 <!-- Hero Section -->
-<table>
-  <tr>
-    <td width="55%" valign="middle">
-      <p><samp>ABOUT</samp></p>
+<p><samp>ABOUT</samp></p>
       <p>
         Versatile IT professional and licensed Primary Care Paramedic with experience in high-stakes work across the tech, healthcare, and entertainment industries.
       </p>
       <p>
         I currently build and maintain healthcare interoperability applications and applied artificial intelligence tools.
       </p>
-  </tr>
-</table>
 
 <br />
 
@@ -65,5 +60,4 @@
 <!-- Footer / Vector Landscape Banner -->
 <div align="center">
   <img src="https://www.melbournemarsden.com/assets/page-landscape.svg" width="100%" alt="Landscape vector banner" />
-  <p><samp>© 2026 MELBOURNE MARSDEN</samp></p>
 </div>

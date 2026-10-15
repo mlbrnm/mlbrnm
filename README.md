@@ -24,7 +24,6 @@
 
 <!-- Selected Work Section -->
 <p><samp>01 / SELECTED WORK</samp></p>
-<h2>Small projects, <em>big dreams.</em></h2>
 
 <table>
   <tr>
